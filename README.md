@@ -1,2 +1,2 @@
-# Computer-Information-Networks
-LNU Computer Information Networks
+# Computer Information Networks
+LNU Computer Information Networks Labs
